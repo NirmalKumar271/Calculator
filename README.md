@@ -1,4 +1,5 @@
-Calculator Project                                                             🚀 applicationdesigned for basic and advanced mathematical operations. This project demonstrates clean code,modular design, and effective use of modern development practices.
+Calculator Project                      🚀 applicationdesigned for basic and advanced mathematical operations. This project demonstrates clean code,modular design, and effective use of modern development practices.
+
 
 Technologies Used                       👉 HTML, CSS, JavaScript (for a web-based calculator).
 
